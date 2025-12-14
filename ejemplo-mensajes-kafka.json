@@ -1,0 +1,10 @@
+{
+  "proyecto": "Sistema de Mensajería con Kafka",
+  "estudiante": "Paolo Chuchuilo",
+  "mensajes": [
+    "Hola desde el productor",
+    "Mensaje de prueba",
+    "JSON en GitHub"
+  ],
+  "fecha": "2024-12-13"
+}
